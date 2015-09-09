@@ -56,7 +56,7 @@ DataGrid component for Xamarin.Forms with MVVM. It supports bindings, templates 
 
 ```
 
-##Usage With C\#
+##Usage With CS
 
 ```  xaml
 
